@@ -1,0 +1,1 @@
+-- Placeholder initial migration. Use `dotnet ef migrations add Initial` and `dotnet ef database update`.
